@@ -1,0 +1,54 @@
+.contain{
+    height: 100vh !important;
+    width: 100vw !important;
+    background-color: rgb(6, 105, 205) !important;
+    
+}
+.cont{
+    width: 100vw !important;
+    height: 100vh !important;
+}
+
+input{
+    margin-left: 35% !important;
+    padding: 8px !important;
+    border-radius: 10px !important;
+    width: 25%;
+}
+button{
+    padding: 8px  20px!important;
+    
+    border-radius: 10px !important;
+    background-color: rgb(4, 7, 10) !important;
+    color: rgb(250, 253, 255);
+}
+li{
+    
+    margin-bottom: 10px !important;
+    background-color: rgb(70, 75, 70);
+    width: 100% !important;
+    padding: 10px !important;
+    border-radius: 10px !important;
+    list-style: none !important;
+    color: rgb(250, 253, 255) !important;
+    position: relative !important;
+}
+inli{
+    background-color: rgb(250, 253, 255);
+}
+.sp{
+    color: rgb(171, 3, 23);
+}
+.close{
+position: absolute;
+top: 0;
+right: 0;
+background-color: rgb(171, 3, 23);
+color: rgb(250, 253, 255);
+padding: 10px;
+cursor: pointer;
+}
+ul{
+    width: 50% !important;
+    margin: auto;
+}
